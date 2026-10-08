@@ -1,4 +1,11 @@
-# DiagnoLeads
+# DiagnoLeads (v1 - アーカイブ済み)
+
+> [!IMPORTANT]
+> **このリポジトリはアーカイブされています（2026-10-09）。**
+> 開発は Next.js 15 で作り直した後継版 **[yusuke-kurosawa/DiagnoLeads](https://github.com/yusuke-kurosawa/DiagnoLeads)**（旧 diagnoleads-v2）に集約しました。
+> 未着手の Issue は後継リポジトリに移管済みです。移植の計画は後継リポジトリの Issue #31 を参照してください。
+> このリポジトリ（FastAPI + React 版）は、プロンプト資産や診断スコアリングなど移植元の参照用として残しています。
+
 
 **マルチテナントB2B診断プラットフォーム with AI**
 
